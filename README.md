@@ -69,7 +69,10 @@ I speak and teach about:
 ## 🔗 Connect with me
 
 🌐 [sujee.dev](https://sujee.dev) •
+🐙 [GitHub](https://github.com/sujee) •
 💼 [LinkedIn](https://www.linkedin.com/in/sujeemaniyam/) •
-🐦 [X / Twitter](https://x.com/sujee_dev) •
+🐦 [X](https://x.com/sujee_dev) •
 🦋 [Bluesky](https://bsky.app/profile/sujee.dev) •
-🎥 [YouTube](https://www.youtube.com/@sujee_dev)
+🎥 [YouTube](https://www.youtube.com/@sujee_dev) •
+💬 Discord: `@sujee.dev`
+
