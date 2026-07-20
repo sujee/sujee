@@ -1,6 +1,6 @@
 # Hi, I'm Sujee 👋
 
-I’m an **AI Developer Advocate at [Nebius](https://nebius.com/)**, helping developers build with **open models** through technical content, practical examples, open-source demos, and hands-on workshops.
+I’m an **AI Developer Advocate at [Nebius](https://nebius.com/)**, helping developers build with **open models** through technical content, practical examples, guides, demos, and hands-on workshops.
 
 I bring 25+ years of software-engineering experience across distributed systems, data engineering, machine learning, and cloud infrastructure.
 
@@ -15,15 +15,30 @@ I bring 25+ years of software-engineering experience across distributed systems,
 * 🦾 Physical AI and robotics
 * 🧑‍🏫 Hands-on workshops, demos, and developer education
 
+
+## 🧰 Technology stack
+
+**Models and inference:** Open models, Ollama, Nebius Token Factory, hosted and self-hosted inference
+
+**AI and agent frameworks:** LangChain, Deep Agents, Tavily, OpenWiki, Docling
+
+**Data and retrieval:** RAG, embeddings, Milvus, vector databases
+
+**Coding agents:** Claude Code, Codex, OpenCode, Cline, Cursor
+
+**Languages and infrastructure:** Python, Docker, Kubernetes, cloud infrastructure
+
+
 ## 💻 Coding with open models
 
 I’m exploring how open models perform in practical, day-to-day software-engineering workflows—not just isolated benchmarks.
 
+I’m particularly interested in repository-scale code understanding, feature implementation, debugging, refactoring, tool use, long-horizon coding tasks, and cost per task.
+
+
 **Models I’m currently testing:** Kimi K2.7 Code, GLM-5.2, and MiniMax-M3.
 
-I’m particularly interested in repository-scale code understanding, feature implementation, debugging, refactoring, tool use, long-horizon coding tasks, and cost per task
-
-## 🛠️ Featured projects
+## 🛠️ Projects I’m building
 
 ### [Claude Code Proxy](https://github.com/sujee/claude-code-proxy)
 
